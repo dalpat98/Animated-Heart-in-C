@@ -6,7 +6,7 @@ Animated heart with time lapse and custom name in center Using C language
 ### Show some :heart: and star the repo to support the project
 
 ## Getting Started
-- Change the name in code and save with .c extension
+- Change the name in code
 - Compile and Run
         
 ### Created & Maintained By
